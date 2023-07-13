@@ -1,1 +1,2 @@
-print("hello")
+def printer():
+    print("hello")
